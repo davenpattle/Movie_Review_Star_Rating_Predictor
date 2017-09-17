@@ -1,0 +1,160 @@
+best_bigram_word_feature
+Importing Corpus...
+Corpus Imported
+Constructing best word dictionary from corpus...
+Best word dictionary constructed
+training classifier
+1
+2
+train on 7384 instances
+1
+2
+test on 7324 instances
+accuracy: 0.550518842163
+Most Informative Features
+           (u'it', u'2') = True                2 : 1      =     24.6 : 1.0
+            (u'2', u'/') = True                2 : 1      =     17.1 : 1.0
+(u'character', u'actors') = True                2 : 1      =     15.6 : 1.0
+      (u'2', u'because') = True                2 : 1      =     14.1 : 1.0
+        (u'2', u'stars') = True                2 : 1      =     12.8 : 1.0
+(u'some', u'entertainment') = True                2 : 1      =     12.7 : 1.0
+     (u'THIS', u'MOVIE') = True                1 : 2      =     12.4 : 1.0
+          (u'2', u'out') = True                2 : 1      =     12.3 : 1.0
+         (u're', u'too') = True                2 : 1      =     11.2 : 1.0
+          (u';', u'his') = True                2 : 1      =     11.2 : 1.0
+
+1 precision: 0.822280178838
+1 recall: 0.439466348068
+
+2 precision: 0.393318965517
+2 recall: 0.792788879235
+
+training classifier
+1
+3
+train on 7520 instances
+1
+3
+test on 7324 instances
+accuracy: 0.627252867286
+Most Informative Features
+          (u'3', u'out') = True                3 : 1      =     33.4 : 1.0
+    (u'three', u'stars') = True                3 : 1      =     20.4 : 1.0
+(u'interesting', u'character') = True                3 : 1      =     19.0 : 1.0
+      (u'she', u'meets') = True                3 : 1      =     14.7 : 1.0
+           (u'it', u'3') = True                3 : 1      =     14.7 : 1.0
+       (u'too', u'slow') = True                3 : 1      =     14.7 : 1.0
+            (u'3', u'/') = True                3 : 1      =     13.9 : 1.0
+        (u'a', u'doubt') = True                1 : 3      =     12.8 : 1.0
+            (u'a', u'3') = True                3 : 1      =     11.9 : 1.0
+         (u'set', u'to') = True                3 : 1      =     11.9 : 1.0
+
+1 precision: 0.794147843943
+1 recall: 0.616089207487
+
+3 precision: 0.437572928821
+3 recall: 0.651607298002
+
+training classifier
+1
+4
+train on 7796 instances
+1
+4
+test on 7657 instances
+accuracy: 0.758260415306
+Most Informative Features
+          (u'4', u'out') = True                4 : 1      =    105.3 : 1.0
+            (u'4', u'/') = True                4 : 1      =     53.8 : 1.0
+     (u'too', u'little') = True                4 : 1      =     23.3 : 1.0
+            (u'a', u'4') = True                4 : 1      =     20.8 : 1.0
+  (u'time', u'watching') = True                1 : 4      =     19.2 : 1.0
+           (u'it', u'4') = True                4 : 1      =     18.3 : 1.0
+         (u'DO', u'NOT') = True                1 : 4      =     17.8 : 1.0
+                travesty = True                1 : 4      =     16.0 : 1.0
+            (u':', u'C') = True                4 : 1      =     15.8 : 1.0
+  (u'previous', u'film') = True                4 : 1      =     15.8 : 1.0
+
+1 precision: 0.892159287658
+1 recall: 0.718239745121
+
+4 precision: 0.608467072496
+4 recall: 0.834535104364
+
+training classifier
+2
+3
+train on 4704 instances
+2
+3
+test on 4843 instances
+accuracy: 0.565765021681
+Most Informative Features
+        (u'2', u'stars') = True                2 : 3      =     13.3 : 1.0
+            (u'3', u'/') = True                3 : 2      =     12.7 : 1.0
+            (u':', u'3') = True                3 : 2      =     10.4 : 1.0
+            (u':', u'2') = True                2 : 3      =      9.5 : 1.0
+            (u'a', u'2') = True                2 : 3      =      9.2 : 1.0
+                 salvage = True                2 : 3      =      8.8 : 1.0
+ (u'original', u'movie') = True                3 : 2      =      8.5 : 1.0
+          (u'2', u'out') = True                2 : 3      =      8.3 : 1.0
+       (u'one', u'time') = True                2 : 3      =      8.1 : 1.0
+            (u'2', u'/') = True                2 : 3      =      8.1 : 1.0
+
+2 precision: 0.53614239012
+2 recall: 0.641181581234
+
+3 precision: 0.604784688995
+3 recall: 0.497441951987
+
+training classifier
+2
+4
+train on 4980 instances
+2
+4
+test on 4937 instances
+accuracy: 0.658902167308
+Most Informative Features
+            (u'4', u'/') = True                4 : 2      =     53.0 : 1.0
+          (u'2', u'out') = True                2 : 4      =     35.2 : 1.0
+            (u'a', u'2') = True                2 : 4      =     19.3 : 1.0
+          (u'4', u'out') = True                4 : 2      =     15.7 : 1.0
+        (u'2', u'stars') = True                2 : 4      =     14.9 : 1.0
+            (u':', u'4') = True                4 : 2      =     14.4 : 1.0
+            (u'a', u'4') = True                4 : 2      =     13.0 : 1.0
+            (u'.', u'4') = True                4 : 2      =     12.3 : 1.0
+        (u'movie', u'i') = True                2 : 4      =     10.6 : 1.0
+  (u'time', u'watching') = True                2 : 4      =     10.6 : 1.0
+
+2 precision: 0.60633172746
+2 recall: 0.765421372719
+
+4 precision: 0.7341211226
+4 recall: 0.565844402277
+
+training classifier
+3
+4
+train on 5116 instances
+3
+4
+test on 5176 instances
+accuracy: 0.575540958269
+Most Informative Features
+          (u'3', u'out') = True                3 : 4      =     41.2 : 1.0
+            (u'4', u'/') = True                4 : 3      =     14.8 : 1.0
+        (u'3', u'stars') = True                3 : 4      =     14.5 : 1.0
+          (u'4', u'out') = True                4 : 3      =     13.6 : 1.0
+            (u'.', u'3') = True                3 : 4      =     13.0 : 1.0
+            (u'3', u'/') = True                3 : 4      =     11.7 : 1.0
+                travesty = True                3 : 4      =     10.8 : 1.0
+       (u'in', u'spite') = True                4 : 3      =     10.5 : 1.0
+  (u'time', u'watching') = True                3 : 4      =     10.0 : 1.0
+       (u'and', u'dull') = True                4 : 3      =      9.9 : 1.0
+
+3 precision: 0.560563380282
+3 recall: 0.626524990161
+
+4 precision: 0.59375
+4 recall: 0.526375711575
